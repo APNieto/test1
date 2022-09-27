@@ -1,0 +1,17 @@
+div {
+    margin: 12px;
+}
+
+label {
+    display: inline-block;
+    width: 180px;
+    text-align: right;
+    margin-right: 8px;        
+}
+
+button {
+    margin-left: 192px;
+    margin-top: 16px;
+    width: 120px;
+    height: 32px;
+}
